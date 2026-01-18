@@ -1,3 +1,4 @@
+```bash
 user@github:~$ whoami
 redteam-operator
 
