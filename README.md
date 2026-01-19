@@ -1,10 +1,10 @@
 ```bash
-user@github:~$ whoami
+two3@github:~$ whoami
 redteam-operator
 
-user@github:~$ neofetch
+two3@github:~$ neofetch
          .-'-.            
-       /`     |__          user@github 
+       /`     |__          two3@github 
      /`  _.--`-,-`        -------------------------
      '-|`   a '<-.   []    
        \     _\__) \=`   
@@ -12,11 +12,19 @@ user@github:~$ neofetch
 jgs       | ;----'       
 
 
-user@github:~$ ls -la /skills
--rwxr-xr-x  1 user staff  Adversary Simulation
--rwxr-xr-x  1 user staff  Detection Evasion
--rwxr-xr-x  1 user staff  ESP32 Red Teaming
--rwxr-xr-x  1 user staff  Malware Tradecraft
+two3@github:~$ cat social_media.txt
+> Instagram : @youssef_pwn
+> linkedin  : Youssef BAAZIZ
+> tryhackme : two3
 
-user@github:~$ cat /etc/motd
+two3@github:~$ ls -la /skills
+-rwxr-xr-x  1 user staff  Red Team Operations
+-rwxr-xr-x  1 user staff  Penetration Testing
+-rwxr-xr-x  1 user staff  Exploitation Techniques
+-rwxr-xr-x  1 user staff  Malware Analysis (Foundations)
+-rwxr-xr-x  1 user staff  Incident Response (Foundations)
+-rwxr-xr-x  1 user staff  Security Operations (SOC Basics)
+
+two3@github:~$ cat /etc/motd
 > 4th globally to pass RTO2 | Freelance Pentester | Detection-Aware Operator
+```
