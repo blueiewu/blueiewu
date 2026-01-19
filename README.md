@@ -4,13 +4,13 @@ redteam-operator
 
 two3@github:~$ neofetch
          .-'-.            
-       /`     |__          two3@github 
+       /`     |__         two3@github 
      /`  _.--`-,-`        -------------------------
-     '-|`   a '<-.   []    
-       \     _\__) \=`   
-        C_  `    ,_/     
-jgs       | ;----'       
-
+     '-|`   a '<-.   []   OS: Arch Linux x86_64
+       \     _\__) \=`    Host: GitHub Pages VM
+        C_  `    ,_/      Kernel: 6.x.x-arch1-1
+jgs       | ;----'        Shell: bash
+                          Terminal: xterm.js
 
 two3@github:~$ cat social_media.txt
 > Instagram : @youssef_pwn
